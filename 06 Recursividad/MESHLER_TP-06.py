@@ -158,7 +158,7 @@ ejercicios = {
 }
 
 while True:
-    print("***EJERCICIOS TP 5.1 - LISTAS***")
+    print("***EJERCICIOS TP 6 - RECURSIVIDAD***")
     ejercicio = input("Indique el número de ejercicio desea ejecutar (1-8), 0 para salir: ")
     if ejercicio == '0':
         break

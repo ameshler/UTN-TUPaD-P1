@@ -52,7 +52,7 @@ def ejercicio4():
     area = calcular_area_circulo(radio)
     perimetro = calcular_perimetro_circulo(radio)
     area = round(area, 2)
-    perimetro = roun(perimetro, 2)
+    perimetro = round(perimetro, 2)
 
     print(f"El círculo de radio {radio} tiene un área de {area} cm2 y un perímetro de {perimetro} cm.")
 
